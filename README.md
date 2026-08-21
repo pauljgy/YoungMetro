@@ -1,3 +1,5 @@
+<img width="1024" height="1024" alt="Singed_Insanity_Potion" src="https://github.com/user-attachments/assets/70e2f85f-b9db-4cf9-9a6d-ba3ff2b740b4" />
+
 # singedR
 
 Here is a simple iOS metronome with a kickdrum sound, made for keeping a steady turnover rate while running. (The usual metronome click was too harsh for me, so I wanted one with a gentler sound.) Default bpm 175, and you can custom upload whatever metronome sound you want.
