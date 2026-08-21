@@ -1,13 +1,10 @@
-# YoungMetro
+# singedR
 
 Here is a simple iOS metronome with a kickdrum sound, made for keeping a steady turnover rate while running. (The usual metronome click was too harsh for me, so I wanted one with a gentler sound.) Default bpm 175, and you can custom upload whatever metronome sound you want.
 
-## Features
+## Notes
 
-- Sample-accurate timing via `AVAudioEngine` (no timer drift)
-- Upload custom beat sounds (WAV, MP3, M4A, AIFF, etc.)
-- Background audio — keeps ticking when the screen is locked
-- BPM range: 100-200
+Singed's ultimate ability gives him many stat boosts and arguably the most notable one is that he becomes faster. Hope that locking into 175 steps per minute can help you do the same!
 
 ## Requirements
 
@@ -24,20 +21,6 @@ Here is a simple iOS metronome with a kickdrum sound, made for keeping a steady 
 ### Free Apple ID
 
 A free Apple ID works for personal device installs. The app will expire after ~7 days and needs to be re-deployed from Xcode.
-
-## Project Structure
-
-```
-Metronome/
-├── MetronomeApp.swift       App entry point
-├── MetronomeEngine.swift    Audio engine + beat scheduler
-├── BeatSoundStore.swift     Custom sound import & PCM buffer loading
-├── ContentView.swift        UI (BPM slider, play/stop, upload)
-├── DocumentPicker.swift     File picker wrapper
-├── Info.plist               Background audio mode
-└── Resources/
-    └── default_click.wav    Bundled fallback click
-```
 
 ## Testing on Device
 

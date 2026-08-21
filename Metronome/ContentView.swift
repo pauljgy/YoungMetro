@@ -13,7 +13,7 @@ struct ContentView: View {
                 soundSection
             }
             .padding()
-            .navigationTitle("YoungMetro")
+            .navigationTitle("Insanity Potion")
             .sheet(isPresented: $showDocumentPicker) {
                 DocumentPicker { url in
                     showDocumentPicker = false
