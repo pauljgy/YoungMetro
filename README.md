@@ -7,7 +7,7 @@ The typical metronome click was too harsh on my ears so I wanted one with a gent
 - Sample-accurate timing via `AVAudioEngine` (no timer drift)
 - Upload custom beat sounds (WAV, MP3, M4A, AIFF, etc.)
 - Background audio — keeps ticking when the screen is locked
-- BPM range: 40–240
+- BPM range: 100-200
 
 ## Requirements
 
@@ -43,7 +43,7 @@ Metronome/
 
 After deploying, verify:
 
-1. **Timing** — set 120 BPM, listen for steady clicks for a few seconds
+1. **Timing** — set 175 BPM, listen for steady clicks for a few seconds
 2. **Custom sound** — tap Upload Sound, pick a short audio file (< 100 ms ideal)
 3. **Background** — start the metronome, lock the screen, confirm clicks continue
 4. **BPM change** — adjust the slider while playing; timing should re-sync within one beat
