@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="Singed_Insanity_Potion" src="https://github.com/user-attachments/assets/70e2f85f-b9db-4cf9-9a6d-ba3ff2b740b4" />
+<img width="64" height="64" alt="Singed_Insanity_Potion" src="https://github.com/user-attachments/assets/7b1b4dba-52c3-42dd-a945-f07dd4e7f565" />
 
 # singedR
 
