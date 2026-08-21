@@ -1,4 +1,4 @@
-# Metronome
+# YoungMetro
 
 A simple iOS metronome with a kickdrum sound, made for keeping a steady turnover rate while running. Default bpm set to 175.
 
