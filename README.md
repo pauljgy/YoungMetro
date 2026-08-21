@@ -1,6 +1,6 @@
 # YoungMetro
 
-A simple iOS metronome with a kickdrum sound, made for keeping a steady turnover rate while running. Default bpm set to 175.
+The typical metronome click was too harsh on my ears so I wanted one with a gentler sound. Here is a simple iOS metronome with a kickdrum sound, made for keeping a steady turnover rate while running. Default bpm 175, and you can custom upload whatever metronome sound you want.
 
 ## Features
 
